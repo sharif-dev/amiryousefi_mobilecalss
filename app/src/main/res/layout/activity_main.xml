@@ -35,13 +35,13 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/button1"
+        android:id="@+id/btn_toast"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:text="button"
         tools:layout_editor_absoluteX="140dp"
         tools:layout_editor_absoluteY="158dp"
-        android:background="@drawable/mybutton"
+        android:background="@drawable/buttonStyle"
         />
 
 </LinearLayout>
